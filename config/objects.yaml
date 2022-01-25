@@ -1,0 +1,247 @@
+ships:
+  total_ships_type: ["wamv", "warship_ship20", "warship", "ipacship"]
+  wamv:
+    ships_param:
+      kp_linear_velocity_1: 1
+      kp_linear_velocity_2: 1
+      kp_linear_velocity_3: 1
+      kp_angular_velocity_1: 1
+      kp_angular_velocity_2: 1
+    ships_name:
+      [
+        "wamv",
+        "wamv_1_1",
+        "wamv_1_2",
+        "wamv_1_3",
+        "wamv_1_4",
+        "wamv_1_5",
+        "wamv_2_1",
+        "wamv_2_2",
+        "wamv_2_3",
+        "wamv_2_4",
+        "wamv_2_5",
+        "wamv_3_1",
+        "wamv_3_2",
+        "wamv_3_3",
+        "wamv_3_4",
+        "wamv_3_5",
+        "wamv_4_1",
+        "wamv_4_2",
+        "wamv_4_3",
+        "wamv_4_4",
+        "wamv_4_5",
+        "wamv_5_1",
+        "wamv_5_2",
+        "wamv_5_3",
+        "wamv_5_4",
+        "wamv_5_5",
+      ]
+  warship_ship20:
+    ships_param:
+      kp_linear_velocity_1: 10
+      kp_linear_velocity_2: 5
+      kp_linear_velocity_3: 5
+      kp_angular_velocity_1: 12
+      kp_angular_velocity_2: 5
+    ships_name:
+      [
+        "warship_ship20_1",
+        "warship_ship20_2",
+        "warship_ship20_3",
+        "warship_ship20_4",
+        "warship_ship20_5",
+      ]
+  warship:
+    ships_param:
+      kp_linear_velocity_1: 10
+      kp_linear_velocity_2: 5
+      kp_linear_velocity_3: 5
+      kp_angular_velocity_1: 12
+      kp_angular_velocity_2: 5
+    ships_name:
+      [
+        "warship_gray_1",
+        "warship_gray_2",
+        "warship_gray_3",
+        "warship_gray_4",
+        "warship_black_1",
+        "warship_black_2",
+        "warship_black_3",
+        "warship_black_4",
+        "warship_white_1",
+        "warship_white_2",
+        "warship_white_3",
+        "warship_white_4",
+        "warship_blue_1",
+        "warship_blue_2",
+        "warship_blue_3",
+        "warship_blue_4",
+      ]
+  ipacship:
+    ships_param:
+      kp_linear_velocity_1: 10
+      kp_linear_velocity_2: 5
+      kp_linear_velocity_3: 5
+      kp_angular_velocity_1: 12
+      kp_angular_velocity_2: 5
+    ships_name:
+      ["ipac_005_1", "ipac_005_2", "ipac_005_3", "ipac_005_4", "ipac_005_5"]
+
+wamv:
+  x: -532
+  y: 162
+wamv_1_1:
+  x: -1150
+  y: 210
+wamv_1_2:
+  x: -1150
+  y: 205
+wamv_1_3:
+  x: -1150
+  y: 200
+wamv_1_4:
+  x: -1150
+  y: 195
+wamv_1_5:
+  x: -1150
+  y: 190
+wamv_2_1:
+  x: -1160
+  y: 210
+wamv_2_2:
+  x: -1160
+  y: 205
+wamv_2_3:
+  x: -1160
+  y: 200
+wamv_2_4:
+  x: -1160
+  y: 195
+wamv_2_5:
+  x: -1160
+  y: 190
+wamv_3_1:
+  x: -1170
+  y: 210
+wamv_3_2:
+  x: -1170
+  y: 205
+wamv_3_3:
+  x: -1170
+  y: 200
+wamv_3_4:
+  x: -1170
+  y: 195
+wamv_3_5:
+  x: -1170
+  y: 190
+wamv_4_1:
+  x: -1180
+  y: 210
+wamv_4_2:
+  x: -1180
+  y: 205
+wamv_4_3:
+  x: -1180
+  y: 200
+wamv_4_4:
+  x: -1180
+  y: 195
+wamv_4_5:
+  x: -1180
+  y: 190
+wamv_5_1:
+  x: -1190
+  y: 210
+wamv_5_2:
+  x: -1190
+  y: 205
+wamv_5_3:
+  x: -1190
+  y: 200
+wamv_5_4:
+  x: -1190
+  y: 195
+wamv_5_5:
+  x: -1190
+  y: 190
+
+warship_ship20_1:
+  x: -1200
+  y: 210
+warship_ship20_2:
+  x: -1200
+  y: 205
+warship_ship20_3:
+  x: -1200
+  y: 200
+warship_ship20_4:
+  x: -1200
+  y: 195
+warship_ship20_5:
+  x: -1200
+  y: 190
+warship_gray_1:
+  x: -1155
+  y: 175
+warship_gray_2:
+  x: -1155
+  y: 165
+warship_gray_3:
+  x: -1155
+  y: 155
+warship_gray_4:
+  x: -1155
+  y: 145
+warship_black_1:
+  x: -1176
+  y: 175
+warship_black_2:
+  x: -1176
+  y: 165
+warship_black_3:
+  x: -1176
+  y: 155
+warship_black_4:
+  x: -1176
+  y: 145
+warship_white_1:
+  x: -1176
+  y: 175
+warship_white_2:
+  x: -1176
+  y: 165
+warship_white_3:
+  x: -1176
+  y: 155
+warship_white_4:
+  x: -1176
+  y: 145
+warship_blue_1:
+  x: -1197
+  y: 175
+warship_blue_2:
+  x: -1197
+  y: 165
+warship_blue_3:
+  x: -1197
+  y: 155
+warship_blue_4:
+  x: -1197
+  y: 145
+
+ipac_005_1:
+  x: -1176
+  y: 130
+ipac_005_2:
+  x: -1176
+  y: 122
+ipac_005_3:
+  x: -1176
+  y: 114
+ipac_005_4:
+  x: -1176
+  y: 106
+ipac_005_5:
+  x: -1176
+  y: 98

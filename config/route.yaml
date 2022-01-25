@@ -1,0 +1,112 @@
+total_routes: ["route_1", "route_2", "route_3", "route_auto"]
+route_auto:
+  route_points_length: 40
+  position_1: [-487.616000, 192.598000]
+  position_2: [-481.235000, 207.651000]
+  position_3: [-485.013000, 212.726000]
+  position_4: [-482.258000, 217.405000]
+  position_5: [-473.358000, 225.633000]
+  position_6: [-458.532000, 219.796000]
+  position_7: [-453.832000, 224.307000]
+  position_8: [-448.871000, 221.479000]
+  position_9: [-449.561000, 215.428000]
+  position_10: [-456.439000, 213.851000]
+  position_11: [-464.437000, 206.381000]
+  position_12: [-469.204000, 201.789000]
+  position_13: [-472.771000, 189.631000]
+  position_14: [-470.635000, 183.288000]
+  position_15: [-478.532000, 179.531000]
+  position_16: [-485.070000, 187.020000]
+  position_17: [-459.316000, 231.327000]
+  position_18: [-468.995000, 252.653000]
+  position_19: [-485.387000, 267.162000]
+  position_20: [-488.379000, 270.710000]
+  position_21: [-483.408000, 274.824000]
+  position_22: [-473.104000, 268.672000]
+  position_23: [-456.876000, 262.709000]
+  position_24: [-433.020000, 251.742000]
+  position_25: [-435.695000, 242.892000]
+  position_26: [-437.666000, 244.875000]
+  position_27: [-455.430000, 269.391000]
+  position_28: [-465.469000, 260.266000]
+  position_29: [-445.464000, 262.648000]
+  position_30: [-432.732000, 264.455000]
+  position_31: [-414.692000, 260.811000]
+  position_32: [-404.328000, 272.469000]
+  position_33: [-412.785000, 283.137000]
+  position_34: [-415.538000, 292.579000]
+  position_35: [-437.381000, 313.142000]
+  position_36: [-446.581000, 338.609000]
+  position_37: [-447.614000, 349.450000]
+  position_38: [-453.287000, 350.705000]
+  position_39: [-455.176000, 353.706000]
+  position_40: [-478.351000, 376.576000]
+  position_1_orietation: [0, 0, 0.5]
+  ships: ["wamv"]
+
+route_1:
+  route_points_length: 5
+  position_1: [-474.769000, 373.865000]
+  position_2: [-463.068000, 350.427000]
+  position_3: [-444.667000, 302.182000]
+  position_4: [-425.912000, 254.209000]
+  position_5: [-430.160000, 159.315000]
+  position_1_orietation: [0, 0, -2.5]
+  ships:
+    [
+      "warship_gray_1",
+      "warship_gray_2",
+      "warship_black_1",
+      "warship_white_1",
+      "warship_white_2",
+      "warship_blue_1",
+      "warship_ship20_1",
+    ]
+
+route_2:
+  route_points_length: 6
+  position_1: [-442.758000, 165.053000]
+  position_2: [-445.038000, 184.634000]
+  position_3: [-462.581000, 221.358000]
+  position_4: [-460.714000, 246.653000]
+  position_5: [-487.850000, 303.993000]
+  position_6: [-498.691000, 386.665000]
+  position_1_orietation: [0, 0, 3.09]
+  ships:
+    [
+      "warship_gray_3",
+      "warship_black_2",
+      "warship_black_3",
+      "warship_ship20_2",
+      "warship_white_3",
+      "warship_blue_2",
+      "warship_blue_3",
+      "warship_ship20_3",
+    ]
+
+route_3:
+  route_points_length: 7
+  position_1: [-709, 804]
+  position_2: [-449, 874]
+  position_3: [-145, 833]
+  position_4: [105, 721]
+  position_5: [447, 639]
+  position_6: [468, 570]
+  position_7: [477, 541]
+  position_1_orietation: [0, 0, 0]
+  ships:
+    [
+      "warship_ship20_1",
+      "warship_ship20_2",
+      "warship_gray_1",
+      "warship_gray_2",
+      "warship_black_1",
+      "wamv_3_1",
+      "wamv_3_2",
+      "wamv_3_3",
+      "warship_black_2",
+      "warship_blue_1",
+      "warship_blue_2",
+      "wamv_3_4",
+      "wamv_3_5",
+    ]

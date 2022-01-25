@@ -1,0 +1,62 @@
+total_routes: ["route_1", "route_2", "route_3"]
+route_1:
+  route_points_length: 4
+  position_1: [-740, 323]
+  position_2: [-725, 325]
+  position_3: [-626, 305]
+  position_4: [315, 107]
+  position_1_orietation: [0, 0, 0.28]
+  ships: ["ipac_005_1"]
+
+route_2:
+  route_points_length: 7
+  position_1: [1171, -28]
+  position_2: [1129, -42]
+  position_3: [1109, -42]
+  position_4: [-660, 46]
+  position_5: [-696, 58]
+  position_6: [-739, 61]
+  position_7: [-750, 61]
+  position_1_orietation: [0, 0, 3.09]
+  ships:
+    [
+      "wamv_1_1",
+      "wamv_1_2",
+      "wamv_2_1",
+      "wamv_2_2",
+      "warship_white_1",
+      "wamv_1_3",
+      "wamv_1_4",
+      "wamv_1_5",
+      "warship_white_2",
+      "wamv_2_3",
+      "wamv_2_4",
+      "wamv_2_5",
+    ]
+
+route_3:
+  route_points_length: 7
+  position_1: [-709, 804]
+  position_2: [-449, 874]
+  position_3: [-145, 833]
+  position_4: [105, 721]
+  position_5: [447, 639]
+  position_6: [468, 570]
+  position_7: [477, 541]
+  position_1_orietation: [0, 0, 0]
+  ships:
+    [
+      "warship_ship20_1",
+      "warship_ship20_2",
+      "warship_gray_1",
+      "warship_gray_2",
+      "warship_black_1",
+      "wamv_3_1",
+      "wamv_3_2",
+      "wamv_3_3",
+      "warship_black_2",
+      "warship_blue_1",
+      "warship_blue_2",
+      "wamv_3_4",
+      "wamv_3_5",
+    ]

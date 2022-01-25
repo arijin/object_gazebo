@@ -1,0 +1,13 @@
+<launch>
+
+  <!-- Acoustic pinger position(s) -->
+  <arg name="objects_params" default="$(find object_gazebo)/config/objects.yaml"/>
+  <arg name="route_params" default="$(find object_gazebo)/config/route.yaml"/>
+  <rosparam command="load" file="$(arg objects_params)" />
+  <rosparam command="load" file="$(arg route_params)" />
+  <!-- Set the pinger location -->
+  <node name="object_simulation" pkg="object_gazebo" type="generate_move.py" output="screen">
+
+  </node>
+
+</launch>
