@@ -45,13 +45,18 @@ route_auto:
   ships: ["wamv"]
 
 route_1:
-  route_points_length: 5
+  route_points_length: 10
   position_1: [-474.769000, 373.865000]
-  position_2: [-463.068000, 350.427000]
-  position_3: [-444.667000, 302.182000]
-  position_4: [-425.912000, 254.209000]
-  position_5: [-430.160000, 159.315000]
-  position_1_orietation: [0, 0, -2.5]
+  position_2: [-473.246000, 343.998000]
+  position_3: [-432.317000, 335.039000]
+  position_4: [-427.094000, 315.217000]
+  position_5: [-437.924000, 275.631000]
+  position_6: [-413.031000, 236.667000]
+  position_7: [-412.825000, 202.711000]
+  position_8: [-412.075000, 171.768000]
+  position_9: [-420.847000, 162.243000]
+  position_10: [-436.171000, 145.914000]
+  position_1_orietation: [0, 0, -1.5]
   ships:
     [
       "warship_gray_1",
@@ -60,28 +65,39 @@ route_1:
       "warship_white_1",
       "warship_white_2",
       "warship_blue_1",
-      "warship_ship20_1",
+      "ipac_005_1",
+      "warship_black_2",
     ]
 
 route_2:
-  route_points_length: 6
+  route_points_length: 12
   position_1: [-442.758000, 165.053000]
   position_2: [-445.038000, 184.634000]
   position_3: [-462.581000, 221.358000]
   position_4: [-460.714000, 246.653000]
   position_5: [-487.850000, 303.993000]
-  position_6: [-498.691000, 386.665000]
-  position_1_orietation: [0, 0, 3.09]
+  position_6: [-511.303000, 379.834000]
+  position_7: [-534.808000, 396.043000]
+  position_8: [-565.534000, 379.746000]
+  position_9: [-563.644000, 306.777000]
+  position_10: [-564.338000, 268.626000]
+  position_11: [-568.561000, 245.428000]
+  position_12: [-589.208000, 239.767000]
+  position_1_orietation: [0, 0, 0.8]
   ships:
     [
       "warship_gray_3",
-      "warship_black_2",
       "warship_black_3",
-      "warship_ship20_2",
+      "warship_black_4",
+      "ipac_005_2",
+      "warship_gray_4",
+      "warship_gray_5",
       "warship_white_3",
       "warship_blue_2",
       "warship_blue_3",
       "warship_ship20_3",
+      "warship_white_4",
+      "warship_white_5",
     ]
 
 route_3:

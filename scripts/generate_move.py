@@ -145,7 +145,7 @@ class Ship:
                 f"    control state: target distance: {self.distance_to_target_route_point:.2f}m, target angle: {self.rad_bet_ori_and_route:.4f}rad")
             print(
                 f"    control ouput: twist angular x: {self.latest_twist_linear_x:.2f}, twist_angular_z: {self.latest_twist_angular_z:.4f}\n")
-            if self.route_point_idx == 0:
+            if self.route_point_idx < 2:
                 pier_free_to_send_ship_statistics[self.route.name] = False
             elif set_time == 0:
                 pier_free_to_send_ship_statistics[self.route.name] = True
